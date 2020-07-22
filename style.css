@@ -1,0 +1,18 @@
+html {
+    background-color: blue;
+}
+#TopText { display: inline-block;
+    width: 50vw;
+
+}
+#topImag {
+    width: 25;
+}
+#bottomText {
+    margin: 10vw;
+}
+#topContent {
+    margin: 5vw;
+    border-bottom: 2px solid gold;
+    padding-bottom: 5vw;
+}
